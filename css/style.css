@@ -20,8 +20,32 @@ div nav {
   background-color: green;
 }
 
+.top {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
 
+.right {
+  float: right;
+}
 
+.pic1 {
+  border-radius: 15px;
+}
+
+.input {
+  border: #fff;
+}
+
+.search-area {
+  border-radius: 30px;
+  padding: 5px;
+}
+
+.voice-search-logo {
+  width: 24px; ;
+}
 
 .header {
   list-style-type: none;
@@ -47,6 +71,11 @@ div nav {
 .container {
   text-align: center;
   margin: 100px;
+  margin-top: 250px;
+}
+
+.google-icon {
+  width: 272px; ;
 }
 
 .search-area {
@@ -59,6 +88,7 @@ div nav {
   margin: 0 auto;
   margin-top: -77px;
   width: 582px;
+  height: auto;
 }
 
 .search-area:hover {
