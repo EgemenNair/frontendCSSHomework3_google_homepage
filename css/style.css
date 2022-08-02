@@ -47,6 +47,20 @@ div nav {
   width: 24px; ;
 }
 
+.buttons {
+  text-align: center;
+}
+
+.search-icons {
+  border-radius: 5px;
+  border-style: hidden;
+}
+
+ul {
+  list-style: none;
+}
+
+
 .header {
   list-style-type: none;
   margin: 10px;
